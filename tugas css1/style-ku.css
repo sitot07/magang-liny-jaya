@@ -1,0 +1,28 @@
+table,tr,td{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border: 1px solid blue;
+    padding: 5px;
+    border-collapse:  colliapse;
+}
+.h{
+    border: 8px groove blue;
+    padding: 10px;
+}
+.posisi{
+    position: static;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 100px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+body{
+    background-image: url('raisa.jpg');
+    background-repeat: no-repeat;
+    background-size: 1400px auto;
+}
